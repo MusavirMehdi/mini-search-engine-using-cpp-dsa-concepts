@@ -1,0 +1,3 @@
+Data structures and algorithms are important for programming.
+Arrays, linked lists, stacks, queues and trees are common data structures.
+Algorithms help us solve programming problems efficiently.

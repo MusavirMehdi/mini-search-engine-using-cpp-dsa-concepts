@@ -1,0 +1,22 @@
+# Binaries and executables
+search
+search.exe
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
