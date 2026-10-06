@@ -87,7 +87,7 @@ You need a C++ compiler supporting **C++17** or higher:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/M3STAR/mini-search-engine-using-cpp-dsa-concepts.git
+   git clone https://github.com/MusavirMehdi/mini-search-engine-using-cpp-dsa-concepts.git
    cd mini-search-engine-using-cpp-dsa-concepts
    ```
 
